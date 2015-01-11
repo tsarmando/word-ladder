@@ -6,7 +6,7 @@ An example of such a sequence is given by turning pig into sty:
 
 pig
 wig
-Wag
+wag
 way
 say
 sty
