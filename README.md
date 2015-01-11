@@ -11,5 +11,5 @@ way
 say
 sty
 
-This program uses a breadth first search of a dictionary to findout if two words are doublets. 
+This program uses a breadth first search on a dictionary subset to find out if two words are doublets. 
 This program is not yet optimal.
